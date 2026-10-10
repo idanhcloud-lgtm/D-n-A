@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Video V1"
+  short_description: "Video faceless V1, sinh động và tránh giao diện TikTok"
+  default_prompt: "Dùng $remotion-video-v1 tạo video từ script đính kèm theo chuẩn V1 và giữ nguyên lời thoại đã khóa."
